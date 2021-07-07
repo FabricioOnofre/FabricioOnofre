@@ -14,7 +14,6 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=FabricioOnofre&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" /> 

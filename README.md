@@ -1,4 +1,9 @@
-<!--### Hi there, I'm [Fabricio!](https://anuraghazra.github.io) 👋 -->
+
+[<img src="https://img.shields.io/github/followers/FabricioOnofre?label=follow&style=social" height="22" title="Follow me" />](https://github.com/milenacarecho) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fabricio.falcoon@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/fabr%C3%ADcio-onofre-7947671b5/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/fabricio_onofre1/) 
+
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> Hello world! I'm Fabricio Onofre 👋 
 
 ### Welcome to my github profile!
@@ -17,9 +22,8 @@
 
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioOnofre&show_icons=true&layout=compact" />
 
-### 🌍 "Somente o conhecimento nos liberta" 🧠
-
-### Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/fabr%C3%ADcio-onofre-7947671b5/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/fabricio_onofre1/) 
+
+### Visitas ao meu perfil :eyes:
+<img src="https://profile-counter.glitch.me/{FabricioOnofre}/count.svg" alt="Fabricio :: Visitor's Count" />

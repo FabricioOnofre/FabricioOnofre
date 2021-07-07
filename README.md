@@ -3,8 +3,7 @@
 
 ### Welcome to my github profile!
 
-<em>I am a 2th Year student from <a href="https://cotuca.unicamp.br/cotuca/"><b>Colégio Técnico de Campinas</b></a>, currently Computer Technician course integrated to High Schoo. I am very interested in the information technology area, so I am always looking for new knowledge in the field. </em>
-
+<em>I'm currently studying the 2nd year of Computer Technician integrated to High School. I'm very interested in the information technology area, so I'm always looking for new knowledge in the area.</em>
 
 
 **Languages and Tools:**  

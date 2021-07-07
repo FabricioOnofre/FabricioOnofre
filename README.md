@@ -11,7 +11,7 @@
 <em>I'm currently studying the 2nd year of Computer Technician integrated to High School. I'm very interested in the information technology area, so I'm always looking for new knowledge in the area.</em>
 
 
-**Languages and Tools:**  
+### Languages and Tools:
  
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>

@@ -13,8 +13,7 @@
 
 ### Languages and Tools:
  
-<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">

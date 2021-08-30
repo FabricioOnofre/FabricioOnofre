@@ -28,7 +28,7 @@
 
 <br>
 
-  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=FabricioOnofre&show_icons=true&layout=compact" />
+<img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=FabricioOnofre&show_icons=true&layout=compact" />
 
 
 

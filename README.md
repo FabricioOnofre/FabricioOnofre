@@ -25,12 +25,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40">
 
 </p>
-
 <br>
-
-<img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=FabricioOnofre&show_icons=true&layout=compact" />
-
-
 
 <br>
 

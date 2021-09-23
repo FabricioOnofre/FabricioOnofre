@@ -25,11 +25,19 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40">
 
 </p>
-<br>
-
-<br>
 
 <!--
 ### Visitas ao meu perfil :eyes:
 <img src="https://profile-counter.glitch.me/{FabricioOnofre}/count.svg" alt="Fabricio :: Visitor's Count" />
   --!>
+
+
+
+
+<br>
+<div align="left">
+  <a href="https://github.com/FabricioOnofre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioOnofre&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioOnofre&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+ 

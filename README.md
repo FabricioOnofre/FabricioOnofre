@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/fabr%C3%ADcio-onofre-7947671b5/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/fabricio_onofre1/) ![](https://visitor-badge.laobi.icu/badge?page_id=FabricioOnofre.FabricioOnofre)
 
-# <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> Hello world! I'm Fabricio Onofre 👋 
+# <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="10px"> Hello world! I'm Fabricio Onofre 👋 
 
 ### Welcome to my github profile!
 

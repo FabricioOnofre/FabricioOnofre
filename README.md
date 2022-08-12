@@ -8,7 +8,7 @@
 
 ## Welcome to my github profile!
 
-<em>I'm currently studying the 2nd year of Computer Technician integrated to High School. I'm very interested in the information technology area, so I'm always looking for new knowledge in the area.</em>
+<em>I'm currently studying the 3nd year of Computer Technician integrated to High School. I'm very interested in the information technology area, so I'm always looking for new knowledge in the area.</em>
 
 
 
